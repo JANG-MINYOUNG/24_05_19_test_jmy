@@ -1,1 +1,2 @@
-![image](https://github.com/JANG-MINYOUNG/24_05_19_test_jmy/assets/153146459/514cf5a3-85ad-4dc3-958c-544f48200d2a)
+# 사용법 
+## DB.sql 복사 후 테이블 생성 하고 http://localhost:8081/readAndSaveToDB1 해서 csv파일 insert 하면 됩니다. 
